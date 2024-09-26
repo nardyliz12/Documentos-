@@ -25,3 +25,8 @@ En esta sección, se detalla el comportamiento del sistema diseñado, que permit
 <img src="https://github.com/nardyliz12/Proyectos_Para_Ingenieria_1/blob/main/Informes%20de%20laboratorio/Entregable_5/20240919_145938.jpg?raw=true" alt="Descripción de la imagen" width="550" />
 
 <a href="https://github.com/nardyliz12/Proyectos_Para_Ingenieria_1/blob/main/Informes%20de%20laboratorio/20240919_154812~2.mp4?raw=true" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Ver Video</a>
+
+
+|Node-Red|Flujo|
+|---|----|
+|Con los nodos y mqtt nosotros estamos publicando el mensaje equipo 10 por él tópico equipo 4, para luego poder recepcionar este mensaje en el sp32 e imprimirlo por el monitor serie, además, con los nodos de mqtt y debug nos suscribimos al topico "OutTopic" y mostramos el mensaje en la sección debug de mensajes, ya que a través de este topico estariamos enviando desde el ESP32 el mensaje "equipo 4" más un número que indica la cantidad de mensajes que podríamos mandar al ejecutarlo.    |<img src="https://github.com/user-attachments/assets/3adf020f-b44f-4ca9-8c46-0b71dc4cf365" alt="ESP32 DEVKIT V1" width="5000"/> |
