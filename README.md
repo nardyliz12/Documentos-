@@ -17,4 +17,4 @@ En esta sección, se detalla el comportamiento del sistema diseñado, que permit
 
 | Gráficas de ThingSpeak para el control del LED y potenciómetro.  | Imagen  |
 |----------------------|-----------------------|
-|  |  <img src="https://github.com/user-attachments/assets/1721ac16-f1f1-4fa7-a102-f23368447065" alt="ESP32 
+|  |  <img src="https://github.com/user-attachments/assets/1721ac16-f1f1-4fa7-a102-f23368447065" alt="ESP32 DEVKIT V1" width="8000"/> | 
